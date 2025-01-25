@@ -18,6 +18,7 @@ public class Ejercicio2 {
         Scanner scanner = new Scanner(System.in);
         boolean continuar = true;
 
+        System.out.println("Hola Usuario!");
         System.out.println("Bienvenido a la Calculadora Basica");
 
         while (continuar) {
